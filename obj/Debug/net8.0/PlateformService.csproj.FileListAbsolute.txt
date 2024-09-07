@@ -135,3 +135,4 @@ D:\microservices\dotnet_core_project\PlateformService\obj\Debug\net8.0\refint\Pl
 D:\microservices\dotnet_core_project\PlateformService\obj\Debug\net8.0\PlateformService.pdb
 D:\microservices\dotnet_core_project\PlateformService\obj\Debug\net8.0\PlateformService.genruntimeconfig.cache
 D:\microservices\dotnet_core_project\PlateformService\obj\Debug\net8.0\ref\PlateformService.dll
+D:\microservices\dotnet_core_project\PlateformService\obj\Debug\net8.0\PlateformService.sourcelink.json
