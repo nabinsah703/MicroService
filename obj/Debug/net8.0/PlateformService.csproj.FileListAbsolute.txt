@@ -136,3 +136,4 @@ D:\microservices\dotnet_core_project\PlateformService\obj\Debug\net8.0\Plateform
 D:\microservices\dotnet_core_project\PlateformService\obj\Debug\net8.0\PlateformService.genruntimeconfig.cache
 D:\microservices\dotnet_core_project\PlateformService\obj\Debug\net8.0\ref\PlateformService.dll
 D:\microservices\dotnet_core_project\PlateformService\obj\Debug\net8.0\PlateformService.sourcelink.json
+D:\microservices\dotnet_core_project\PlateformService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
